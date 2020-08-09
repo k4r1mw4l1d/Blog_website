@@ -1,0 +1,12 @@
+h5, p{
+    color: #61dafb;
+}
+.card-text{
+    width: 500px;
+    display: flex;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+.video{
+    margin-bottom: 20px;
+}
